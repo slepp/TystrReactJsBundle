@@ -42,7 +42,7 @@ class ReactRenderer
     {
         return
             sprintf(
-                'React.render(React.createElement(%s, %s), %s);',
+                'ReactDOM.render(React.createElement(%s, %s), %s);',
                 $component,
                 json_encode($data),
                 $where

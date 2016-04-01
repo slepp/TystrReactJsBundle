@@ -4,7 +4,7 @@
     "keywords": ["react", "reactjs", "react.js", "bundle", "symfony", "isomorphic", "php", "v8js"],
     "type": "symfony-bundle",
     "require": {
-        "reactjs/react-php-v8js": "^1.0",
+        "reactjs/react-php-v8js": "^2.0",
         "twig/twig": "^1.23",
         "symfony/dependency-injection": "~2.7",
         "symfony/config": "~2.7",
